@@ -1,0 +1,3 @@
+import unittest
+from bot import Bot
+...rest of the code...

@@ -1,0 +1,8 @@
+{
+    "polygon_rpc_url": "YOUR_POLYGON_RPC_URL",
+    "uniswap_address": "YOUR_UNISWAP_CONTRACT_ADDRESS",
+    "sushiswap_address": "YOUR_SUSHISWAP_CONTRACT_ADDRESS",
+    "pancakeswap_address": "YOUR_PANCAKESWAP_CONTRACT_ADDRESS",
+    "wallet_private_key": "YOUR_WALLET_PRIVATE_KEY",
+    "profit_threshold": 0.02
+}

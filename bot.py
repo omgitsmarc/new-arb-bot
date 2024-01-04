@@ -1,0 +1,3 @@
+from web3 import Web3
+from config import wallet_private_key, wallet_address
+...rest of the code...
